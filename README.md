@@ -1,2 +1,2 @@
-# scrimba-react-course99999
-Learn React for free Scrimba course
+# scrimba-react-course
+This is a repository for solo porjects from Learn React for free Scrimba course
